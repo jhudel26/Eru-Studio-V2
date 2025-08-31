@@ -273,7 +273,9 @@ You can download the latest **EruStudio Windows Installer (.exe)** from the [Rel
 
 ## 📄 License
 
-This project is provided as-is for educational and personal use.
+This project is licensed under the [MIT License](LICENSE).  
+You are free to use, modify, and distribute this software in accordance with the terms of the MIT license.
+
 
 ## 🆘 Support
 
@@ -303,3 +305,4 @@ For issues, questions, or feature requests:
 
 
 **EruStudio** - Professional File Management Suite for Windows with Modern UI 
+

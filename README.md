@@ -261,6 +261,16 @@ EruStudio/
 - **Typography**: Change font families and sizes
 - **Animations**: Enhance hover effects and transitions
 
+
+## 📥 Download
+
+You can download the latest **EruStudio Windows Installer (.exe)** from the [Releases section](https://github.com/YourUsername/EruStudio/releases).
+
+1. Go to the [Latest Release](https://github.com/YourUsername/EruStudio/releases/latest)
+2. Download the file: **EruStudio-Setup.exe**
+3. Run the installer and follow the on-screen instructions
+4. Launch **EruStudio** from your Start Menu or Desktop shortcut
+
 ## 📄 License
 
 This project is provided as-is for educational and personal use.
@@ -290,5 +300,6 @@ For issues, questions, or feature requests:
   - Folder creation from templates
 
 ---
+
 
 **EruStudio** - Professional File Management Suite for Windows with Modern UI 

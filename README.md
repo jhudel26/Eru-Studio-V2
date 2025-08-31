@@ -264,12 +264,17 @@ EruStudio/
 
 ## 📥 Download
 
-You can download the latest **EruStudio Windows Installer (.exe)** from the [Releases section](https://github.com/YourUsername/EruStudio/releases).
+You can download the latest **EruStudio Windows Installer (.exe)** from the [Releases section](https://github.com/jhudel26/Eru-Studio-V2/releases).
 
-1. Go to the [Latest Release](https://github.com/YourUsername/EruStudio/releases/latest)
-2. Download the file: **EruStudio-Setup.exe**
-3. Run the installer and follow the on-screen instructions
-4. Launch **EruStudio** from your Start Menu or Desktop shortcut
+- **Latest Release:** [EruStudio v0.2.1](https://github.com/jhudel26/Eru-Studio-V2/releases/tag/V0.2.1)  
+- **Installer File:** `EruStudio-Setup.exe`  
+
+### Installation from Release
+1. Go to the [latest release page](https://github.com/jhudel26/Eru-Studio-V2/releases/tag/V0.2.1).
+2. Download **EruStudio-Setup.exe**.
+3. Run the installer and follow the on-screen instructions.
+4. Launch **EruStudio** from the Start Menu or Desktop shortcut.
+
 
 ## 📄 License
 
@@ -305,4 +310,5 @@ For issues, questions, or feature requests:
 
 
 **EruStudio** - Professional File Management Suite for Windows with Modern UI 
+
 
